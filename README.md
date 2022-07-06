@@ -1,7 +1,7 @@
 # Dictionary App
 ### Dictionary app using `React JS` and `Material UI` with PWA Support
 
-## `URL` : [Click Here to open app](https://dex0577.netlify.app) Press Ctrl + Left Click
+## `URL` : [Click Here to open app](https://dex0577.netlify.app)
 
 # Getting Started with Create React App
 
