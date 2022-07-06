@@ -3,13 +3,14 @@ import React from "react";
 import "./Header.css";
 import categories from "../../data/category";
 
-const Header = ({ setCategory, category, word, setWord }) => {
+const Header = ({ setCategory, category, word, setWord, light }) => {
   const darkTheme = createTheme({
     palette: {
-      mode: "dark",
+      mode: light ? "light" : "dark",
       primary: {
-        main: "#fff",
+        main: light ? "#000" : "#fff",
       },
+      type: light ? "light" : "dark",
     },
   });
 
@@ -20,7 +21,7 @@ const Header = ({ setCategory, category, word, setWord }) => {
 
   return (
     <div className="header">
-      <span className="title">Dex   </span>
+      <span className="title">Dex </span>
       <div className="inputs">
         <ThemeProvider theme={darkTheme}>
           <TextField
