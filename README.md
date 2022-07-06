@@ -1,5 +1,7 @@
 # Dictionary App
-### Dictionary app using `React JS` and `Material UI`
+### Dictionary app using `React JS` and `Material UI` with PWA Support
+
+## `URL` : dex0577.netlify.app
 
 # Getting Started with Create React App
 
