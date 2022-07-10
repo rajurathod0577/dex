@@ -1,4 +1,4 @@
-# Dex - Dictionary App
+# Dex
 ### Dictionary app using `React JS` and `Material UI` with PWA Support
 
 ## `Preview` : [Dex](https://dex0577.netlify.app)
