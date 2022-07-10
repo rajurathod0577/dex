@@ -1,7 +1,7 @@
 # Dex - Dictionary App
 ### Dictionary app using `React JS` and `Material UI` with PWA Support
 
-## `Preview` : [Click Here to open app](https://dex0577.netlify.app)
+## `Preview` : [Dex - Dictionary App](https://dex0577.netlify.app)
 
 # Getting Started with Create React App
 
