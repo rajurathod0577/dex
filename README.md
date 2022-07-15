@@ -1,5 +1,5 @@
 # Dex
-### Dictionary app using `React JS` and `Material UI` with PWA Support
+### Dictionary app using `React JS` and `Material UI` with `PWA` Support
 
 ## `Preview` : [Dex](https://dex0577.netlify.app)
 `Language selection is disabled due to recent api update`
